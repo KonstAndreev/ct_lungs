@@ -5,5 +5,5 @@
 Используемая в проекте библиотека:  
 https://github.com/qubvel/segmentation_models.pytorch.
 
-Для загрузки весов модели необходимо перейти по ссылке
+Для загрузки весов модели необходимо перейти по ссылке  
 https://drive.google.com/file/d/1jYRFlxiGq6XTRWd0TR0NVCdfGKh7Sw1y/view?usp=share_link
